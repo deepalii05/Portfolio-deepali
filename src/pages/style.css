@@ -332,11 +332,15 @@
   color: #e8e8e8;
 }
 .webimage {
-  max-width: 650px;
-  height: 500px;
+  margin: 10%;
+  max-width: 350px;
+  height: 450px;
   background-image: url(../Assets/web-removebg-preview.png);
   background-size: cover;
   background-position: center;
+  border-radius: 20%;
+  border-width: 4px 1.25em;
+  border-color: #FFF4E0;
 }
 @media (max-width: 767px) {
   .aboutpagebackground {
