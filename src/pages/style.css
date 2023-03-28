@@ -207,12 +207,15 @@
   letter-spacing: 1px !important;
 }
 .imagedeveloper {
-  margin-top: 50px;
-  max-width: 550px;
-  height: 400px;
-  background-image: url(../Assets/Web-designer-1024x821.webp);
+  margin: 10%;
+  max-width: 350px;
+  height: 450px;
+  background-image: url(../Assets/web-removebg-preview.png);
   background-size: cover;
   background-position: center;
+  border-radius: 20%;
+  border-width: 4px 1.25em;
+  border-color: #FFF4E0;
 }
 .socailmediabtn {
   margin-top: 2rem;
@@ -335,7 +338,7 @@
   margin: 10%;
   max-width: 350px;
   height: 450px;
-  background-image: url(../Assets/web-removebg-preview.png);
+  background-image: url(../Assets/Web-designer-1024x821.webp);
   background-size: cover;
   background-position: center;
   border-radius: 20%;
