@@ -32,7 +32,7 @@ function Home() {
             }}
               className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
             <button onClick={() => {
-              window.open("https://instagram.com/rahulvijay81");
+              window.open("https://instagram.com/deepali.i05");
             }}
               className='socailmediabtn'><AiFillInstagram className='icon' /></button>
           </Col>
